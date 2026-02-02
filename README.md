@@ -1,5 +1,15 @@
 ## Hi there 👋
 
+I'm Yann LE RAY, currently pursuing a dual degree in Mathematics and Computer Science.
+
+I enjoy designing apps and video games whenever I have time to work on side projects.
+
+If a challenge seems too hard, I’ll try even harder — I love pushing my limits.
+
+My main tools are Eclipse and Notepad++, and I often use pen and paper to sketch ideas or take notes.
+
+Feel free to reach out: ynnleray@gmail.com
+
 <!--
 **AkahMini/AkahMini** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
