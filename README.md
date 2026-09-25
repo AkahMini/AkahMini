@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I'm Yann LE RAY, currently pursuing a dual degree in Mathematics and Computer Science.
+I'm Yann LE RAY, currently pursuing a dual degree in Mathematics and Computer Science at CY Cergy Paris Université.
 
 I enjoy designing apps and random projects whenever I have time to work on side projects.
 
