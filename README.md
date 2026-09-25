@@ -2,11 +2,11 @@
 
 I'm Yann LE RAY, currently pursuing a dual degree in Mathematics and Computer Science.
 
-I enjoy designing apps and video games whenever I have time to work on side projects.
+I enjoy designing apps and random projects whenever I have time to work on side projects.
 
 If a challenge seems too hard, I’ll try even harder — I love pushing my limits.
 
-My main tools are Eclipse and Notepad++, and I often use pen and paper to sketch ideas or take notes.
+My main tools are Eclipse, VSCode and Notepad++, and I often use pen and paper to sketch ideas or take notes.
 
 Feel free to reach out: ynnleray@gmail.com
 
